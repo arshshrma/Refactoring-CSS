@@ -1,0 +1,23 @@
+.profile {
+  display: inline-block;
+  padding: 30px;
+  background-color: white;
+  font-size: 25px;
+}
+
+.biography {
+  display: inline-block;
+  border: 5px solid black;
+  background-color: cadetblue;
+  padding: 30px;
+  font-size: 18px;
+}
+
+.footer-3-wide {
+  display: inline-block;
+  border: 5px bold black;
+  background-color: pink;
+  padding: 30px;
+  font-size: 25px;
+  font-weight: normal;
+}
